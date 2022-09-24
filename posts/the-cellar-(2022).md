@@ -1,0 +1,19 @@
+---
+title: The Cellar (2022)
+dur: 60M2040S
+img: https://sendaljepit.masuk.id/the-cellar/img/thecellar.jpg
+cover1: https://sendaljepit.masuk.id/the-cellar/img/
+movie1: https://sendaljepit.masuk.id/the-cellar/
+movie: https://daffa-adr.my.id/v/g7e4k6a-5ny6z4gy
+dl: https://daffa-adr.my.id/f/g7e4k6a-5ny6z4gy
+res: HD
+color: primary
+date: "2022-03-25"
+midb: 5,3/10
+tags: Horror
+categories: [Horror]
+director: Brendan Muldowney
+actor: Elisha Cuthbert, Eoin Macken, Dylan Fitzmaurice Brady
+---
+
+Unable to turn down a once-in-a-lifetime opportunity to buy their dream house for nothing, Keira and Brian Woods move into a vast, lavish, fully-furnished Irish manor in the city's suburbs. As their sulky teenage daughter Ellie and her younger brother Steven wander around the cold rooms of their eerily-vacant new home, an intriguing wind-up gramophone in the living room suddenly catches their attention. And, without a doubt, there must be more treasures hidden in plain sight. But who knows what lies behind the kids' peculiar behaviour? What dark, hair-raising wonders lurk in the cellar?

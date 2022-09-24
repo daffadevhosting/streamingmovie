@@ -1,0 +1,18 @@
+---
+title: MoonFall (2022)
+dur: 120M600S
+img: https://lsf.go.id/wp-content/uploads/2022/01/moonfal_onesheet_page-0001-350x520.jpg
+cover1: https://sendaljepit.masuk.id/moonfall/img/
+movie1: https://short.ink/hUtCQDa6W
+movie: https://daffa-adr.my.id/v/w0dxq-iny5142m63
+dl: https://daffa-adr.my.id/f/w0dxq-iny5142m63
+res: HD
+color: primary
+date: "2022-02-06"
+midb: 5,2/10
+tags: Action, Adventure, Sci-Fi
+categories: [Action, Adventure, Sci-Fi]
+director: Roland Emmerich
+---
+
+In Moonfall, a mysterious force knocks the Moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it. With mere weeks before impact and the world on the brink of annihilation, NASA executive and former astronaut Jo Fowler is convinced she has the key to saving us all - but only one astronaut from her past, Brian Harper and a conspiracy theorist K.C. Houseman believe her. These unlikely heroes will mount an impossible last-ditch mission into space, leaving behind everyone they love, only to find that they just might have prepared for the wrong mission. [— Centropolis Entertainment](https://www.imdb.com/search/title/?plot_author=Centropolis%20Entertainment&view=simple&sort=alpha&ref_=tt_stry_pl)

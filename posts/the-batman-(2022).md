@@ -1,0 +1,18 @@
+---
+title: The Batman (2022)
+dur: 120M3360S
+img: https://upload.wikimedia.org/wikipedia/id/5/54/The_Batman_%28film%29_poster.jpeg
+cover1: https://sendaljepit.masuk.id/the-batman/img/
+movie1: https://short.ink/JCWdvl4--
+movie: https://daffa-adr.my.id/v/r5d2l-cen7380yqz
+dl: https://daffa-adr.my.id/f/r5d2l-cen7380yqz
+res: HD
+color: primary
+date: "2022-03-12"
+midb: 8,1/10
+tags: Action, Crime, Drama, Mystery
+categories: [Action, Crime, Drama, Mystery]
+director: Matt Reeves
+---
+
+When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.

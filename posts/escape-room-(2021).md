@@ -1,0 +1,30 @@
+---
+title: Escape Room- Tournament of Champions (2021)
+dur: 60M16880S
+img: https://sendaljepit.masuk.id/escape-room-2021/img/escaperoom2021.webp
+cover1: https://sendaljepit.masuk.id/escape-room-2021/img/
+movie1: https://sendaljepit.masuk.id/escape-room-2021/
+movie: https://daffa-adr.my.id/v/xm08q-a57xj4ky71
+dl: https://daffa-adr.my.id/v/xm08q-a57xj4ky71
+res: HD
+color: primary
+date: "2021-07-16"
+midb: 6,7/10
+tags: Horror, Mystery, Thriller
+categories: [Horror, Mystery, Thriller]
+director: Adam Robitel
+actor: Taylor Russell, Logan Miller, Deborah Ann Woll
+ket: 
+cast:
+ - ava: https://m.media-amazon.com/images/M/MV5BZGI4MWYxZjctYzkxYS00Y2M3LTk5NzQtOTU0YTMwMmU4YTc5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg
+   nama: Taylor Russell
+   sebagai: Zoey Davis
+ - ava: https://m.media-amazon.com/images/M/MV5BYWRlMjkyM2QtYTQzNC00NmJkLTkzMWQtZTI5MzNkYzI2MWY4XkEyXkFqcGdeQXVyMTQwMDQwNjY@._V1_QL75_UX140_CR0,12,140,140_.jpg
+   nama: Logan Miller
+   sebagai: Ben Miller
+ - ava: https://m.media-amazon.com/images/M/MV5BMjE2NjA4NzYyMV5BMl5BanBnXkFtZTcwODEwNjQyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg
+   nama: Deborah Ann Woll
+   sebagai: Amanda Harper
+---
+
+Enam orang dengan enggan menemukan diri mereka terkunci di serangkaian kamar pelarian lainnya, perlahan mengungkap kesamaan mereka untuk bertahan hidup. Bergabung dengan dua penyintas asli, mereka segera menemukan bahwa mereka semua pernah memainkan permainan sebelumnya.
